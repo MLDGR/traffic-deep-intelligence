@@ -1,6 +1,6 @@
 # Purpose of this application
 
-This application focuses on obtaining data time series format in order to be able to predict the average time each vehicle detection by each sensor. If high detection times are obtained they can be associated with the presence of traffic jams.
+This application focuses on obtaining data in time series format in order to be able to predict the average time each vehicle detection by each sensor. If high detection times are obtained they can be associated with the presence of traffic jams.
 
 1. Obtain the data time sampled / accumulated every second detection.
 
@@ -21,5 +21,5 @@ The next step nature of this work is to associate a timeout threshold from which
 
 # Additional comments
 
-If you run the experiment on a Linux system, you can take advantage of parallelization caracterísicas implemented in the code by increasing the number of cores in these types of functions:
+If you run the experiment on a Linux system, you can take advantage of parallelization characteristics implemented in the code by increasing the number of cores in these types of functions:
 mclapply (x, function (x) {}, mc.cores = getOption ("mc.cores", 1))
