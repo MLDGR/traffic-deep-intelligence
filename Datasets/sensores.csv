@@ -1,0 +1,13 @@
+idSensor,nombre,tipo,latitud,longitud,infoAdicional
+1011,"DGT-A-44pk118.3-creciente BLUETOOTH",BLUETOOTH,37.241668,-3.6526,"A-44 pk 118.3 sentido creciente. Enlace A-44pk118.3 con A-92pk241.0)"
+1012,"DGT-A-44pk118.3-creciente WIFI",WIFI,37.241668,-3.6526,"A-44 pk 118.3 sentido creciente. Enlace A-44pk118.3 con A-92pk241.0)"
+1021,"DGT-A-92pk294.3-creciente BLUETOOTH",BLUETOOTH,37.318763,-3.137978,"A-92 pk 294.3 sentido creciente"
+1022,"DGT-A-92pk294.3-creciente WIFI",WIFI,37.318763,-3.137978,"A-92 pk 294.3 sentido creciente"
+1031,"DGT-A-92pk344.95-creciente BLUETOOTH",BLUETOOTH,37.141298,-2.710871,"A-92 pk 344.95 sentido creciente"
+1032,"DGT-A-92pk344.95-creciente WIFI",WIFI,37.141298,-2.710871,"A-92 pk 344.95 sentido creciente"
+1041,"DGT-A-7pk241.8-decreciente BLUETOOTH",BLUETOOTH,36.757427,-4.426879,"A-7 pk 241.8 sentido decreciente. Enlace A-7 pk 241.8 con A-45 pk 142.4"
+1042,"DGT-A-7pk241.8-decreciente WIFI",WIFI,36.757427,-4.426879,"A-7 pk 241.8 sentido decreciente. Enlace A-7 pk 241.8 con A-45 pk 142.4"
+1051,"DGT-A-45pk121.7-decreciente BLUETOOTH",BLUETOOTH,36.910454,-4.444769,"A-45 pk 121.7 sentido decreciente"
+1052,"DGT-A-45pk121.7-decreciente WIFI",WIFI,36.910454,-4.444769,"A-45 pk 121.7 sentido decreciente"
+1061,"DGT-A-92pk177.9-decreciente BLUETOOTH",BLUETOOTH,37.139109,-4.275784,"A-92 pk 177.9 sentido decreciente. Enlace A-92 con A-92M"
+1062,"DGT-A-92pk177.9-decreciente WIFI",WIFI,37.139109,-4.275784,"A-92 pk 177.9 sentido decreciente. Enlace A-92 con A-92M"
