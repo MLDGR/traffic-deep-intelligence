@@ -4,15 +4,15 @@ This application focuses on obtaining data time series format in order to be abl
 
 1. Obtain the data time sampled / accumulated every second detection.
 
-A time series is defined as a set of data recorded at equidistant time intervals. So the natural first step of this application is to transform the original dataset for the average detection time sampled every second (from this first transformation to obtain new datasets sampled at different intervals is facilitated, such as 1, 10 , 15, 30, 45 and 60 minutes)
+  A time series is defined as a set of data recorded at equidistant time intervals. So the natural first step of this application is to transform the original dataset for the average detection time sampled every second (from this first transformation to obtain new datasets sampled at different intervals is facilitated, such as 1, 10 , 15, 30, 45 and 60 minutes)
 
 2. Getting predictions one-step-ahead detection time.
 
-In this case it was decided to make predictions of detection times in each sensor in order to associate the high detection times recorded with the presence of traffic jams.
+  In this case it was decided to make predictions of detection times in each sensor in order to associate the high detection times recorded with the presence of traffic jams.
 
-In this case we have made predictions for 10, 15, 30, 45 and 60 minutes. With the initial data and processing on those obtained in the last two months have been obtained runtimes less than 2 minutes.
+  In this case we have made predictions for 10, 15, 30, 45 and 60 minutes. With the initial data and processing on those obtained in the last two months have been obtained runtimes less than 2 minutes.
 
-This step generates an output file for prediction with 3 columns, which contain the time axis in UNIX time, the actual data used in training the model prediction and the set of output data contains the actual data to the penultimate prediction point and the last point (test), respectively.
+  This step generates an output file for prediction with 3 columns, which contain the time axis in UNIX time, the actual data used in training the model prediction and the set of output data contains the actual data to the penultimate prediction point and the last point (test), respectively.
 
 # Future works
 
