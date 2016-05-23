@@ -1,6 +1,6 @@
 {
   "name": "Traffic-deep-intelligence",
   "tagline": " Hackaton Smart City",
-  "body": "### Welcome to Smart City.\r\n\r\n\r\n\r\n### Plot of sensor\r\n\r\n[Map](https://cjferba.cartodb.com/viz/b0ca1066-2029-11e6-afae-0e3ff518bd15/public_map)\r\n\r\n\r\n### Document of proyect\r\n### Authors and Contributors\r\nCarlos JEsus Fernandez BAsso @cjferba, Francisco Baldan @fjbaldan, Diego Garcia @djgarcia \r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.",
+  "body": "### Welcome to Smart City.\r\n\r\nWe have used data from sensors petra project to predict traffic congestion and study the speed between the sections. We also display all these results. \r\n\r\n\r\n### Plot of sensor\r\n\r\n[Map](https://cjferba.cartodb.com/viz/b0ca1066-2029-11e6-afae-0e3ff518bd15/public_map)\r\n\r\n\r\n### Document of proyect\r\n### Authors and Contributors\r\nCarlos JEsus Fernandez BAsso @cjferba, Francisco Baldan @fjbaldan, Diego Garcia @djgarcia \r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
