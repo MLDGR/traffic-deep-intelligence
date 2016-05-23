@@ -1,6 +1,6 @@
 ## Traffic-deep-intelligence
 
-We have used data from sensors petra project to predict traffic congestion and study the speed between the sections. We also display all these results. 
+We have used data from petra project's sensors to predict traffic congestion and study the speed between the sections. We also display all these results. 
 
 
 Nosotros hemos usado los datos de sensores del proyecto petra para predecir atascos de tráfico y estudiar la velocidad entre los tramos. Tambien se realizaron visualizaciones de todos estos resultados. 
