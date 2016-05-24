@@ -17,3 +17,8 @@ https://machinelearningdatascience.wordpress.com/
 
 [@baldan](https://es.linkedin.com/in/franciscojavierbaldanlozano/en) Francisco Javier Baldán Lozano 
  
+### References:
+
+https://github.com/proyectopetra
+
+https://proyectopetra.wordpress.com/
