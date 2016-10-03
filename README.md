@@ -15,7 +15,7 @@ https://machinelearningdatascience.wordpress.com/
 
 [@cjferba](https://es.linkedin.com/in/cjferba) Carlos Jesus Fernandez Basso 
 
-[@baldan](https://es.linkedin.com/in/franciscojavierbaldanlozano/en) Francisco Javier Baldán Lozano 
+[@fjbaldan](https://es.linkedin.com/in/franciscojavierbaldanlozano/en) Francisco Javier Baldán Lozano 
  
 ### References:
 
